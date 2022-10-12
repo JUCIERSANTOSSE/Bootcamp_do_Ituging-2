@@ -1,5 +1,8 @@
 
-let minhaVariavel = 35;
-let minhaVariavel2 = 'Jucier Santos';
+function digaOla (){
+    let nome = 'Maria'
+    console.log("Olá " + nome)
+    return nome
+}
 
-console.log(typeof(minhaVariavel),(minhaVariavel2));
+digaOla()
