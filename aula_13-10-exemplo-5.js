@@ -1,9 +1,9 @@
 
-const vidas = 1;
-const idade = 17;
+const nome = "Pedro";
+const anoNascimento = 2010;
 
-if (vidas >= 1 && idade >= 18) {
+if (2022 - anoNascimento >= 18) {
     console.log("Pode jorgar");
 } else {
-    console.log("Game Over");
+    console.log(nome + ": Não pode acessar!");
 }
