@@ -9,4 +9,4 @@ function numeroAleatorio(){
 
 }
 
-console.log(numeroAleatorio());
+console.log("Número exibido: " + numeroAleatorio());
