@@ -7,4 +7,4 @@ function tabuada (x, n) {
         i++;
     }
 }
-    tabuada(2, 10);
+tabuada(2, 10);
