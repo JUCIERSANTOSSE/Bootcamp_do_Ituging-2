@@ -1,5 +1,5 @@
 
-function numeroAleatorio(){
+function numeroAleatorio () {
     
     const min = 1;
     const max = 10;
